@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NekoMonci12/YueMi-Billing.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NekoMonci12/YueMi-Billing-Frontend.git
